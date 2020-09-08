@@ -1,0 +1,13 @@
+---
+title: "Material"
+output: html_document
+---
+
+### Exploratory Data Analysis | Analisis Data Eksploratif
+
+<div>
+  <a href="material/ADE/ADE01.html" target = "_blank">Week 01 | Minggu 01</a> <br>
+  <a href="material/ADE/ADE02.html" target = "_blank">Week 02 | Minggu 02</a> <br>
+</div>
+
+### Econometrics

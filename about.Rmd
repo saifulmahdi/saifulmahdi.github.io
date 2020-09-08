@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+### About the Site
+
+This site was created to host teaching materials for my students during COVID-19. COVID-19 has made learning online more important than it ever was before.
+
+### About Me
+
+Besides teaching [at Unsyiah](http://www.fsd.unsyiah.ac.id/smahdi/), I am active in research ([Google Scholar Profile](https://scholar.google.com/citations?user=SBvzIEsAAAAJ&hl=en&oi=ao)) and several communities. For insights on Quantitative Social Science, find me at [http://issed.co/]. 

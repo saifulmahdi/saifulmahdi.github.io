@@ -1,0 +1,11 @@
+name: "Belajar-Bareng-SM"
+output_dir: "."
+navbar:
+  title: "Belajar Bareng SM"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Material"
+      href: material.html
